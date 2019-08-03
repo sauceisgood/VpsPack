@@ -2,4 +2,4 @@
 
 # Install
 
-wget https://raw.githubusercontent.com/RicKbrL/VpsPack/master/install && bash install
+wget https://raw.githubusercontent.com/sauceisgood/VpsPack/master/install && bash install
